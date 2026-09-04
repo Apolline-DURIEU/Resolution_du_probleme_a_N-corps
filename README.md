@@ -1,4 +1,4 @@
-# Résolution_du_problème_à_N-corps
+# Résolution du problème à N-corps
 Résolution sur C++ du problème à N-corps, dans le cas du système solaire  ☀️🌑🌍🌔🌟.\
 Au programme :\
 - De la création de classes en C++
