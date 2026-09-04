@@ -1,3 +1,7 @@
 # Résolution_du_problème_à_N-corps
 Résolution sur C++ du problème à N-corps, dans le cas du système solaire  ☀️🌑🌍🌔🌟.\
-Ce projet nécessite la création de classes en C++, et de l'utilisation de méthodes de régression linéaire.
+Au programme :\
+- De la création de classes en C++
+- Des méthodes de régréssion linéaire (explicite ou autrement dit forward)
+- De l'analyse de résultats
+- Des supers vidéos
