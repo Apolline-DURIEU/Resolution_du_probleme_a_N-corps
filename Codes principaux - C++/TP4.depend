@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1764329069 source:c:\users\apoll\documents\polytech lyon\coding\tp4\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<string>
+	"Coordonnees.h"
+	"Vecteur.h"
+	"point_materiel.h"
+	"translater.h"
+
+1764166905 source:c:\users\apoll\documents\polytech lyon\coding\tp4\coordonnees.cpp
+	<iostream>
+	<math.h>
+	"Coordonnees.h"
+
+1764168407 c:\users\apoll\documents\polytech lyon\coding\tp4\coordonnees.h
+
+1763979748 source:c:\users\apoll\documents\polytech lyon\coding\tp4\vecteur.cpp
+	<iostream>
+	<math.h>
+	"Vecteur.h"
+
+1764171334 c:\users\apoll\documents\polytech lyon\coding\tp4\vecteur.h
+	<iostream>
+	<Coordonnees.h>
+
+1763552263 source:c:\users\apoll\documents\polytech lyon\coding\tp4\translater.cpp
+	<iostream>
+	<math.h>
+	"translater.h"
+
+1763552263 c:\users\apoll\documents\polytech lyon\coding\tp4\translater.h
+	<iostream>
+	<Coordonnees.h>
+	<Vecteur.h>
+
+1764173499 source:c:\users\apoll\documents\polytech lyon\coding\tp4\point_materiel.cpp
+	<iostream>
+	<math.h>
+	"point_materiel.h"
+
+1764171334 c:\users\apoll\documents\polytech lyon\coding\tp4\point_materiel.h
+	<iostream>
+	<Coordonnees.h>
+	<Vecteur.h>
+
+1764166905 source:c:\users\apoll\documents\polytech_lyon\coding\tp4\coordonnees.cpp
+	<iostream>
+	<math.h>
+	"Coordonnees.h"
+
+1764168407 c:\users\apoll\documents\polytech_lyon\coding\tp4\coordonnees.h
+
+1764683469 source:c:\users\apoll\documents\polytech_lyon\coding\tp4\point_materiel.cpp
+	<iostream>
+	<math.h>
+	"point_materiel.h"
+
+1764171334 c:\users\apoll\documents\polytech_lyon\coding\tp4\point_materiel.h
+	<iostream>
+	<Coordonnees.h>
+	<Vecteur.h>
+
+1764952209 c:\users\apoll\documents\polytech_lyon\coding\tp4\vecteur.h
+	<iostream>
+	<Coordonnees.h>
+
+1763552263 source:c:\users\apoll\documents\polytech_lyon\coding\tp4\translater.cpp
+	<iostream>
+	<math.h>
+	"translater.h"
+
+1763552263 c:\users\apoll\documents\polytech_lyon\coding\tp4\translater.h
+	<iostream>
+	<Coordonnees.h>
+	<Vecteur.h>
+
+1764952209 source:c:\users\apoll\documents\polytech_lyon\coding\tp4\vecteur.cpp
+	<iostream>
+	<math.h>
+	"Vecteur.h"
+
+1767109912 source:c:\users\apoll\documents\polytech_lyon\coding\tp4\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<string>
+	"Coordonnees.h"
+	"Vecteur.h"
+	"point_materiel.h"
+	"translater.h"
+
