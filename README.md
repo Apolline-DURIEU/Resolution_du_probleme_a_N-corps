@@ -6,8 +6,7 @@ Au programme :
 - De l'analyse de résultats
 - Des supers vidéos
 
-  ---
-  #### Les résultats obtenus sont disponibles ici :
+  #### Les résultats obtenus sont disponibles ici ⬇️ :
   - [Système Terre-Lune](https://www.youtube.com/shorts/btxEOkuynxk) 🌎🌙
   - [Système Soleil-Terre-Lune](https://www.youtube.com/shorts/URlDpeuyAQc) ☀️🌎🌙
   - [Système Solaire Tellurique](https://www.youtube.com/shorts/sYfYKmOoaqA) ☀️🌑🌍🌔
