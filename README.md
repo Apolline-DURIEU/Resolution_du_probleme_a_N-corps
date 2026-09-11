@@ -5,7 +5,7 @@ Au programme :
 - Des méthodes de régréssion linéaire (explicite ou autrement dit forward)
 - De l'analyse de résultats
 - Des supers vidéos
-
+  
   #### Les résultats obtenus sont disponibles ici ⬇️ :
   - [Système Terre-Lune](https://www.youtube.com/shorts/btxEOkuynxk) 🌎🌙
   - [Système Soleil-Terre-Lune](https://www.youtube.com/shorts/URlDpeuyAQc) ☀️🌎🌙
